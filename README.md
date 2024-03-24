@@ -1,2 +1,2 @@
-# ms_atenciones_medicas
-Semana 3 - Microservicio b. - Atenciones medicas.
+# DESARROLLO FULLSTACK I_001A - Ejercicio B
+Microservicio b. atenciones medicas.
